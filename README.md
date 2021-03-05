@@ -1,6 +1,6 @@
 <h1 align="center">Hello everyone <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm João Paulo</h1>
 <h3 align="center">A student learning to program web development</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Joao-Paul0" alt="Joao-Paul0" /> </p>
 
 - 🔭 I'm not currently working
 
