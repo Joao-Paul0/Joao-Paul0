@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript, HTML, CSS, MYSQL, REACT, NODEJS** 
 
-- 📫 How to reach me **joaopaulo.tomazaquino@hotmail.com**
+- 📫 How to reach me: **joaopaulo.tomazaquino@hotmail.com**
 
 - ⚡ Fun fact **Threeyes 😜**
 
