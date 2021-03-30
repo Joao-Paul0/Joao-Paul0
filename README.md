@@ -3,7 +3,7 @@
 <h3 align="center">A student learning to program web development</h3>
 
 
-- 🔭 I'm not currently working
+- 🔭 I'm focused on my goals
 
 - 🌱 I’m currently learning **JavaScript, HTML, CSS, MYSQL, NODEJS** 
 
