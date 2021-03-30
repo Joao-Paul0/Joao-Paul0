@@ -5,11 +5,11 @@
 
 - 🔭 I'm not currently working
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS, MYSQL, REACT, NODEJS** 
+- 🌱 I’m currently learning **JavaScript, HTML, CSS, MYSQL, NODEJS** 
 
 - 📫 How to reach me: **joaopaulo.tomazaquino@hotmail.com**
 
-- ⚡ Fun fact **Threeyes 😜**
+- ⚡ Fun fact **My birthday is the same day of dependency in Brazil🎉**
 
 > "The greatest successes come from the freedom to fail."
 > ― Mark Zuckerberg
