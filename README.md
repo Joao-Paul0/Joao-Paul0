@@ -23,8 +23,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
   
-<img align="right" src="https://wifflegif.com/gifs/216387-gravity-falls-dipper-pines-gif">
-
 </p>
 
 
