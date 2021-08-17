@@ -1,15 +1,17 @@
 # ⚡ João Paulo
 
-<h3 align="center">A student learning to program web development</h3>
+<h3 align="center">Hi there!</h3>
 
 
-- 🔭 I'm focused on my goals
+- 🎯 I'm focused on my goals
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS, MYSQL, NODEJS** 
+- 👨‍🏫 I’m currently learning: **JavaScript, HTML, CSS, MYSQL, NODEJS**
+
+- 👨‍💻 Languages that I have a cool base: **Python e Java**
 
 - 📫 How to reach me: **joaopaulo.tomazaquino@hotmail.com**
 
-- ⚡ Fun fact **My birthday is the same day of dependency in Brazil🎉**
+- ⚡ Fun fact: **My birthday is the same day of dependency in Brazil🎉**
 
 > "The greatest successes come from the freedom to fail."
 > ― Mark Zuckerberg
@@ -22,10 +24,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"</p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"</p><p align="center">
   
 </p>
-
 
 
