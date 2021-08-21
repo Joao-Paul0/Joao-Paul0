@@ -2,19 +2,20 @@
 
 <h3 align="center">Hi there!</h3>
 
+ <p>I am a passionate student of technology. I currently take an I.T course, where I learned languages ​​like python and C / C ++
+</p>
 
 - 🎯 I'm focused on my goals
 
 - 👨‍🏫 I’m currently learning: **JavaScript, HTML, CSS, MYSQL, NODEJS**
 
-- 👨‍💻 Languages that I have a cool base: **Python e Java**
+- 👨‍💻 Languages that I have a cool base: **Python, C/C++ e Java**
 
 - 📫 How to reach me: **joaopaulo.tomazaquino@hotmail.com**
 
 - ⚡ Fun fact: **My birthday is the same day of dependency in Brazil🎉**
 
-> "The greatest successes come from the freedom to fail."
-> ― Mark Zuckerberg
+
 
 
 <p align="left">
@@ -30,3 +31,8 @@
 </p>
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Paul0&show_icons=true&theme=radical)
+
+
+> "The greatest successes come from the freedom to fail."
+> ― Mark Zuckerberg
