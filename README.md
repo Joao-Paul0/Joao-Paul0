@@ -16,7 +16,11 @@
 
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> Languages that I have a **good** base: **Python, C/C++ e Java**
 
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" /> Fun fact: **My birthday is the same day of dependency in Brazil🎉**<br><br>
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" /> Fun fact: **My birthday is the same day of dependency in Brazil🎉**
+
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" /> **See** my <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-209b5b217/">
+ <b>Likedin</b>
+  </a> <br><br>
 
 
 > "The greatest successes come from the freedom to fail."
@@ -47,8 +51,6 @@
 <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-209b5b217/">
     <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
- <a href="mailto:joaopaulo.tomazaquino2002@gmail.com">
-    <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a>
+ 
 
 
