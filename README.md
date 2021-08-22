@@ -5,7 +5,7 @@
  <p>
   <em>
      I am a technology student, looking for my first professional experience.<br>
-    <b>A friendly person, trying to go to the next level,</b>&nbsp; <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px"> and who is <b>obsessed</b> with the idea of <b>improving</b> himself <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px"> .
+    <b>A friendly person, trying to go to the next level,</b>&nbsp; <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px"> and who is <b>obsessed</b> with the idea of <b>improving</b> himself as a <b>professional</b> and as a <b>person</b>&nbsp; <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px"> .
 
  </em>
 </p> <br>
@@ -39,9 +39,11 @@
 </p>
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Paul0&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Paul0&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Paul0&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Paul0&theme=radical)
+
+
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Paul0&theme=radical)-->
 
 ## Languages and Tools:
 
