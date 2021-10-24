@@ -4,7 +4,7 @@
 
  <p>
   <em>
-     I am a technology student, looking for my first professional experience.<br>
+     A guy who loves technology and hacking a lot.<br>
     <b>A friendly person, trying to go to the next level,</b>&nbsp; <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px"> and who is <b>obsessed</b> with the idea of <b>improving</b> himself as a <b>professional</b> and as a <b>person</b>&nbsp; <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px"> .
 
  </em>
