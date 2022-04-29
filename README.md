@@ -9,8 +9,10 @@
 
  </em>
 </p> <br>
+<!--
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="20vw" /> I'm focused on my goals. -->
 
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="20vw" /> I'm focused on my goals.
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" /> I’m currently sleeping 😴 or working on my laptop 👨‍💻
 
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" />  I’m currently learning: **Django, HTML, CSS, Cloud, NODEJS and Android📱.**
 
