@@ -12,9 +12,9 @@
 
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="20vw" /> I'm focused on my goals.
 
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" />  I’m currently learning: **JavaScript, HTML, CSS, MYSQL, NODEJS.**
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" />  I’m currently learning: **Django, HTML, CSS, Cloud, NODEJS and Android📱.**
 
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> Languages I **know** is **Python, C/C++ and Java.**
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> Languages I **know** is **Python, **JavaScript and Java.**
 
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" /> Fun fact: **My birthday is the same day of dependency in Brazil and the same year as the penta⚽🎉.**
 
