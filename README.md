@@ -23,9 +23,9 @@
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" /> **See** my <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-209b5b217/">
  <b>Likedin</b>
   </a>. 
-  
+<!--  
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20vw" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.    <br><br>
-
+-->
 
 > "The greatest successes come from the freedom to fail."
 > ― Mark Zuckerberg
