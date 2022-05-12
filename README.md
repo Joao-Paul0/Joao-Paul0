@@ -15,8 +15,7 @@
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" /> Currently focusing on **Web development** and other programming languages
 
 
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" />  **Sometimes I play to distract myself a little or look for bug bounty
-.**
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" />  **Sometimes I play to distract myself a little or or look for bug bountie.**
 
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" /> Fun fact:  **Music + coffe = productivity.**
 
