@@ -3,11 +3,11 @@
 
 <h3 align="center"><p>
   <em>
-    <b>A friendly person, trying to go to the next level,</b>&nbsp; <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px"> and who is <b>obsessed</b> with the idea of <b>improving</b> himself as a <b>professional</b> and as a <b>person</b>&nbsp; <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px"> .
+    <b>A friendly person, trying to go to the next level of knowledge,</b>&nbsp; <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px"> and who is <b>obsessed</b> with <b>technology</b>&nbsp; <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px"> .
 
  </em>
 </p></h3> 
-
+<br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
  
