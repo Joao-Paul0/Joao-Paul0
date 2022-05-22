@@ -4,16 +4,14 @@
 <h3 align="center"><p>
   <em>
     <b>A friendly person, trying to go to the next level of knowledge,</b>&nbsp; <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px"> and who is <b>obsessed</b> with <b>technology</b>&nbsp; <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px"> .
-
  </em>
 </p></h3> 
 
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
- 
 
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" /> Currently focusing on **Web development** and other programming languages
 
+- <img align="right" alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" /> Currently focusing on **Web development** and other programming languages
 
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" />  **Sometimes I play to distract myself a little or look for bug bountie.**
 
