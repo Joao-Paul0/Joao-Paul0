@@ -1,9 +1,9 @@
-<h1 align="center"><img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px"></h1>
+<h1 align="center">👋Hello world!&nbsp;🌎</h1>
 
 
 <h3 align="center"><p>
   <em>
-    <b>A friendly person, trying to go to the next level of knowledge,</b>&nbsp; <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px"> and who is <b>obsessed</b> with <b>technology</b>&nbsp; <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px"> .
+    <b>A friendly person, trying to go to the next level of knowledge,</b>&nbsp;🚀 and who is <b>obsessed</b> with <b>technology</b>&nbsp; 👨‍💻.
  </em>
 </p></h3> 
 
@@ -12,13 +12,13 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" /> Currently focusing on **Web development** and other programming languages.
+- 🌱 Currently focusing on **Web development** and other programming languages.
 
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" />  **Sometimes I play to distract myself a little or look for bug bountie.**
+- 🕵️‍♂️ **Sometimes I play to distract myself a little or look for bug bountie.**
 
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" /> Fun fact:  **Music + coffee = productivity.**
+- ⚡ Fun fact:  **Music + coffee = productivity.**
 
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20vw" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻. 
+- 💎 Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻. 
 
 > "The greatest successes come from the freedom to fail."
 > ― Mark Zuckerberg
