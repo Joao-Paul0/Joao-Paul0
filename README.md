@@ -1,4 +1,4 @@
-<h1 align="center">👋Hello world!&nbsp;🌎</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hello world!&nbsp;🌎</h1>
 
 
 <h3 align="center"><p>
@@ -40,5 +40,11 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Paul0&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Paul0&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Paul0&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Paul0&layout=compact&langs_count=9&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- <div>
+  <a href="https://github.com/Joao-Paul0">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Paul0&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Paul0&layout=compact&langs_count=8&theme=radical"/>
+</div>
+-->
