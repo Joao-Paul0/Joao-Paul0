@@ -25,7 +25,7 @@
 
 #### Connect with me:
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jo%C3%A3o-paulo-magalh%C3%A3es-tomaz-de-aquino-209b5b217/) 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joao-paulo-magalhaes-tomaz-de-aquino/) 
 
 **Languages:**
 
