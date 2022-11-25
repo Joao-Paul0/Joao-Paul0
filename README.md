@@ -33,7 +33,18 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 <!--![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)-->
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,php)](https://skillicons.dev)
+<!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,php)](https://skillicons.dev)-->
+<p>
+<img width="30px" src="https://skillicons.dev/icons?i=html" alt="html icon"/>
+   &nbsp;
+<img width="30px" src="https://skillicons.dev/icons?i=css" alt="css icon"/>
+   &nbsp;
+<img width="30px" src="https://skillicons.dev/icons?i=js" alt="js icon"/>
+   &nbsp;
+<img width="30px" src="https://skillicons.dev/icons?i=php" alt="php icon"/>
+   &nbsp;
+  <img width="30px" src="https://skillicons.dev/icons?i=c" alt="c icon"/>
+</p>
 
 **Databases:**
 
