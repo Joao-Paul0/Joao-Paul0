@@ -24,15 +24,16 @@
 > ― Mark Zuckerberg
 
 #### Connect with me:
-
+<!--[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)-->
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joao-paulo-magalhaes-tomaz-de-aquino/) 
 
 **Languages:**
-
+<!--
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 <!--![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)-->
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,php)](https://skillicons.dev)
 
 **Databases:**
 
