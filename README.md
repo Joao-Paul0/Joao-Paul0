@@ -44,6 +44,8 @@
 <img width="30px" src="https://skillicons.dev/icons?i=php" alt="php icon"/>
    &nbsp;
   <img width="30px" src="https://skillicons.dev/icons?i=c" alt="c icon"/>
+  &nbsp;
+  <img width="30px" src="https://skillicons.dev/icons?i=py" alt="py icon"/>
 </p>
 
 **Databases:**
