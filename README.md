@@ -3,7 +3,7 @@
 
 <h3 align="center"><p>
   <em>
-    <b>A Learning Enthusiast trying to go to the next level of knowledge,</b>&nbsp;🚀 and who is <b>obsessed</b> with <b>technology</b>&nbsp; 👨‍💻.
+    <b>A Learning Enthusiast trying to go to the next level of knowledge,</b>&nbsp;🚀 and who is <b>obsessed</b> with <b>technology</b>&nbsp;👨‍💻.
  </em>
 </p></h3> 
 
